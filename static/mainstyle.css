@@ -16,3 +16,10 @@
         font-size: 15px;
         padding: 10px;
     }
+
+    .hero {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
